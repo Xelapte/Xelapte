@@ -13,7 +13,7 @@ I like building things end-to-end: from low-level C++ engines and network protoc
 ## 🛠️ Skills
 
 **Languages:** C, C++, Rust, Python, TypeScript/JavaScript, Haskell
-**Web / AI:** Next.js, React, Node.js, n8n, Whisper, LLM orchestration (OpenAI/Ollama), scikit-learn, REST APIs
+**Web / AI:** Next.js, React, Node.js, n8n, LLM orchestration (OpenAI/Ollama), scikit-learn, REST APIs
 **Systems:** Network programming (TCP/UDP, custom protocols), multiprocessing & IPC, Docker, CMake/Make, Git
 
 ---
