@@ -42,10 +42,3 @@ Group projects built as part of Epitech's project-based curriculum. Several are 
 | **Tekspice** | Digital logic circuit simulator built from scratch — components, pins, and signal propagation modeled as an extensible C++ engine | C++ | Private — available on request |
 | **MyTeams** | Slack-style team chat platform: custom client/server protocol with channels, threads, and private messages | C | Private — available on request |
 | **The Plazza** | Concurrent pizzeria simulator — multi-process kitchens communicating over shared memory & IPC | C++ | Private — available on request |
-
----
-
-## 📊 GitHub stats
-
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xelapte&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xelapte&layout=compact&theme=dark&hide_border=true)
