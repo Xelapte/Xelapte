@@ -13,7 +13,7 @@ I like building things end-to-end: from low-level C++ engines and network protoc
 ## 🛠️ Skills
 
 **Languages:** C, C++, Rust, Python, TypeScript/JavaScript, Haskell
-**Web / AI:** Next.js, React, Node.js, n8n, Whisper, LLM orchestration (OpenAI/Ollama), REST APIs
+**Web / AI:** Next.js, React, Node.js, n8n, Whisper, LLM orchestration (OpenAI/Ollama), scikit-learn, REST APIs
 **Systems:** Network programming (TCP/UDP, custom protocols), multiprocessing & IPC, Docker, CMake/Make, Git
 
 ---
@@ -29,16 +29,19 @@ Built at the MedIA hackathon. Verity listens to **37 live radio stations across 
 
 ## 🎓 Academic projects (Epitech)
 
-Group projects built as part of Epitech's project-based curriculum. These live in private school-organization repositories (shared team work, under academic-integrity rules), so code isn't published here — happy to walk through any of them, or share access, on request.
+Group projects built as part of Epitech's project-based curriculum. Several are mirrored below as squashed, single-commit showcase copies (full history stays in the private school-organization repos, per academic-integrity rules) — see each repo's `CREDITS.md` for the full team.
 
-| Project | Description | Stack |
-|---|---|---|
-| **Arcade** | Modular arcade engine that dynamically loads game & graphics libraries (`.so`) at runtime, with an SDL2 backend and multiple playable games (Snake, Minesweeper) | C++, SDL2 |
-| **Zappy** | Network survival-simulation game: a game server plus AI and GUI clients talking over a custom protocol | C++, Python |
-| **Tekspice** | Digital logic circuit simulator built from scratch — components, pins, and signal propagation modeled as an extensible C++ engine | C++ |
-| **Raytracer** | Custom 3D rendering engine with a plugin architecture for primitives, lights, and scene composition | C++ |
-| **MyTeams** | Slack-style team chat platform: custom client/server protocol with channels, threads, and private messages | C |
-| **The Plazza** | Concurrent pizzeria simulator — multi-process kitchens communicating over shared memory & IPC | C++ |
+| Project | Description | Stack | Code |
+|---|---|---|---|
+| **[Raytracer](https://github.com/Xelapte/raytracer)** | Custom 3D rendering engine with a plugin architecture for primitives, lights, and scene composition | C++ | ✅ Public mirror |
+| **[Zappy](https://github.com/Xelapte/zappy)** | Network survival-simulation game: a game server plus AI and GUI clients talking over a custom protocol | C++, Python | ✅ Public mirror |
+| **[CVRIE](https://github.com/Xelapte/cvrie)** | Classical ML pipeline — KNN & Random Forest classification, K-means clustering | Python, scikit-learn | ✅ Public mirror |
+| **Persona** | AI persona project with a security audit | — | 🔜 Mirror in progress |
+| **Star Trek** | Reinforcement learning (DQN, Q-learning) solving LunarLander-v3 with Gymnasium | Python, Gymnasium | 🔜 Mirror in progress |
+| **Arcade** | Modular arcade engine that dynamically loads game & graphics libraries (`.so`) at runtime, with an SDL2 backend and multiple playable games (Snake, Minesweeper) | C++, SDL2 | Private — available on request |
+| **Tekspice** | Digital logic circuit simulator built from scratch — components, pins, and signal propagation modeled as an extensible C++ engine | C++ | Private — available on request |
+| **MyTeams** | Slack-style team chat platform: custom client/server protocol with channels, threads, and private messages | C | Private — available on request |
+| **The Plazza** | Concurrent pizzeria simulator — multi-process kitchens communicating over shared memory & IPC | C++ | Private — available on request |
 
 ---
 
