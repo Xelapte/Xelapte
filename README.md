@@ -13,7 +13,7 @@ I like building things end-to-end: from low-level C++ engines and network protoc
 ## 🛠️ Skills
 
 **Languages:** C, C++, Rust, Python, TypeScript/JavaScript, Haskell
-**Web / AI:** Next.js, React, Node.js, n8n, LLM orchestration (OpenAI/Ollama), scikit-learn, REST APIs
+**Web / AI:** Next.js, React, Node.js, n8n, Whisper, LLM orchestration (OpenAI/Ollama), scikit-learn, REST APIs
 **Systems:** Network programming (TCP/UDP, custom protocols), multiprocessing & IPC, Docker, CMake/Make, Git
 
 ---
@@ -35,7 +35,7 @@ Group projects built as part of Epitech's project-based curriculum. Several are 
 |---|---|---|---|
 | **[Raytracer](https://github.com/Xelapte/raytracer)** | Custom 3D rendering engine with a plugin architecture for primitives, lights, and scene composition | C++ | ✅ Public mirror |
 | **[Zappy](https://github.com/Xelapte/zappy)** | Network survival-simulation game: a game server plus AI and GUI clients talking over a custom protocol | C++, Python | ✅ Public mirror |
-| **[CVRIE](https://github.com/Xelapte/cvrie)** | Classical ML pipeline — KNN & Random Forest classification, K-means clustering | Python, scikit-learn | ✅ Public mirror |
+| **[CVRIE](https://github.com/Xelapte/cvrie)** | ML for medical diagnosis support — KNN classifier flagging pulmonary anomalies in chest X-rays, plus unsupervised clustering of patient testimonies | Python, scikit-learn | ✅ Public mirror |
 | **Persona** | AI persona project with a security audit | — | 🔜 Mirror in progress |
 | **Star Trek** | Reinforcement learning (DQN, Q-learning) solving LunarLander-v3 with Gymnasium | Python, Gymnasium | 🔜 Mirror in progress |
 | **Arcade** | Modular arcade engine that dynamically loads game & graphics libraries (`.so`) at runtime, with an SDL2 backend and multiple playable games (Snake, Minesweeper) | C++, SDL2 | Private — available on request |
