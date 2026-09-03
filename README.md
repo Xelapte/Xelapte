@@ -36,9 +36,6 @@ Group projects built as part of Epitech's project-based curriculum. Several are 
 | **[Raytracer](https://github.com/Xelapte/raytracer)** | Custom 3D rendering engine with a plugin architecture for primitives, lights, and scene composition | C++ | ✅ Public mirror |
 | **[Zappy](https://github.com/Xelapte/zappy)** | Network survival-simulation game: a game server plus AI and GUI clients talking over a custom protocol | C++, Python | ✅ Public mirror |
 | **[CVRIE](https://github.com/Xelapte/cvrie)** | ML for medical diagnosis support — KNN classifier flagging pulmonary anomalies in chest X-rays, plus unsupervised clustering of patient testimonies | Python, scikit-learn | ✅ Public mirror |
-| **Persona** | AI persona project with a security audit | — | 🔜 Mirror in progress |
-| **Star Trek** | Reinforcement learning (DQN, Q-learning) solving LunarLander-v3 with Gymnasium | Python, Gymnasium | 🔜 Mirror in progress |
+| **[Persona](https://github.com/Xelapte/persona)** | Headless, security-first AI news aggregator built as an n8n workflow — chat-native login/registration agents, scheduled ingestion, fact-checking, and a dedicated security audit | n8n, Mistral Cloud | ✅ Public mirror |
+| **[Star Trek](https://github.com/Xelapte/starttrek)** | Reinforcement learning (DQN, Q-learning) solving LunarLander-v3 with Gymnasium | Python, PyTorch, Gymnasium | ✅ Public mirror |
 | **Arcade** | Modular arcade engine that dynamically loads game & graphics libraries (`.so`) at runtime, with an SDL2 backend and multiple playable games (Snake, Minesweeper) | C++, SDL2 | Private — available on request |
-| **Tekspice** | Digital logic circuit simulator built from scratch — components, pins, and signal propagation modeled as an extensible C++ engine | C++ | Private — available on request |
-| **MyTeams** | Slack-style team chat platform: custom client/server protocol with channels, threads, and private messages | C | Private — available on request |
-| **The Plazza** | Concurrent pizzeria simulator — multi-process kitchens communicating over shared memory & IPC | C++ | Private — available on request |
